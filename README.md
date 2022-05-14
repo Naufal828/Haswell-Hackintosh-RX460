@@ -36,12 +36,18 @@
 
 ## Functional
 
-- [x] Audio by [AppleALC](https://github.com/acidanthera/AppleALC/releases/)
-- [x] Graphics by [WhateverGreen](https://github.com/acidanthera/WhateverGreen)
-- [x] USB by [Hackintool USB Mapping](https://github.com/headkaze/Hackintool)
-- [x] iMessage / FaceTime / iCloud
-- [x] Ethernet
-- [x] Sleep
+-  Audio by [AppleALC](https://github.com/acidanthera/AppleALC/releases/)
+-  Graphics by [WhateverGreen](https://github.com/acidanthera/WhateverGreen)
+-  USB by [Hackintool USB Mapping](https://github.com/headkaze/Hackintool)
+-  iMessage / FaceTime / iCloud
+-  Ethernet
+-  Sleep and Wake
+
+## Doesn't Work
+- Wifi
+- Bluetooh
+- AirDrop
+- etc....
 
  
 ## Resources
