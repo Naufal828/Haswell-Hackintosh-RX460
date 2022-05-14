@@ -44,7 +44,8 @@ and make sure you have your bios settings
 -  iMessage / FaceTime / iCloud
 -  Ethernet
 -  HDMI Out
--  All Port USB 
+-  All Port USB
+-  VDA Decoder Fully Support 
 
 ## Doesn't Work
 - Wifi
