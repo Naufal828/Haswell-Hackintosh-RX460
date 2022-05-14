@@ -81,6 +81,8 @@ and make sure you have your bios settings
 ## Screenshot
 <img src="Pics/Home.png" width="1000"/>
 <img src="Pics/About This Mac.png" width="1000"/>
+<img src="Pics/Sensei.png" width="1000"/>
+<img src="Pics/Black Magic.png" width="1000"/>
 <img src="Pics/Hackintool USB.png" width="1000"/>
 <img src="Pics/Video Proc.png" width="1000"/>
 
