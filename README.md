@@ -1,17 +1,19 @@
 
 [![macOS version](https://img.shields.io/static/v1?label=MacOS-Monterey&message=12.3.1&color=blueviolet)](https://www.apple.com/id/macos/monterey-preview/) 
-[![OpenCore version](https://img.shields.io/badge/OpenCore-0.8.0-informational.svg)](https://github.com/acidanthera/OpenCorePkg) 
+[![OpenCore version](https://img.shields.io/badge/OpenCore-0.8.0-informational.svg)](https://github.com/acidanthera/OpenCorePkg)
 
 <img src="Pics/Monterey.png" width="150"/>
 
 # Hackintosh Haswell Dekstop
 ##### Download EFI: [Releases](https://github.com/Naufal828/EFI-HASWELL-DEKSTOP/releases/tag/Release)
 
-**IMPORTANT** Before you use this efi, configure smbios on config.plist 
+**IMPORTANT** Before you use this efi, configure smbios on config.plist
+and make sure you have your bios settings
 
 
-- [[GUIDE] ](https://dortania.github.io/OpenCore-Install-Guide/config.plist/haswell.html#platforminfo)
-- [[GENSMBIOS] ](https://github.com/corpnewt/GenSMBIOS)
+- [[Platfrom Info] ](https://dortania.github.io/OpenCore-Install-Guide/config.plist/haswell.html#platforminfo)
+- [[Bios Settings]](https://dortania.github.io/OpenCore-Install-Guide/config.plist/haswell.html#intel-bios-settings)
+- [[GenSMBIOS] ](https://github.com/corpnewt/GenSMBIOS)
 - [[Monterey Supported Smbios] ](https://dortania.github.io/OpenCore-Install-Guide/extras/monterey.html#supported-smbios)
 
 ## Hardware
@@ -25,8 +27,8 @@
 | RAM                  | 8GB DDR3 1600Mhz                  |  
 | Ethernet             | Realtek® 8111G Gigabit Lan        |
 | Wi-Fi Bluetooth      | none                              |
-| SSD                  | Klevv Neo N400 120GB              |
-
+| Storage              | Maxell SSD 120Gb Sata Interface   |
+| Hardisk              | Seagate 500Gb , Samsung 320Gb     |
 ## Patches & Kexts
  - [[Kext] VirtualSMC](https://github.com/acidanthera/VirtualSMC)
  - [[Kext] Lilu](https://github.com/acidanthera/Lilu)
@@ -36,25 +38,32 @@
 
 ## Functional
 
--  Audio by [AppleALC](https://github.com/acidanthera/AppleALC/releases/)
--  Graphics by [WhateverGreen](https://github.com/acidanthera/WhateverGreen)
--  USB by [Hackintool USB Mapping](https://github.com/headkaze/Hackintool)
+-  QE/CI of Intel® HD Graphics 4600
+-  Restart, Sleep and Shutdown
+-  CPU Power Management
 -  iMessage / FaceTime / iCloud
 -  Ethernet
--  Sleep and Wake
+-  HDMI Out
+-  All Port USB 
 
 ## Doesn't Work
 - Wifi
 - Bluetooth
 - AirDrop
+- Appletv or cannot stream netflix, disney+, primevideo. because that need drm gpu compatible *required gpu Polaris+
 - etc....
 
  
-## Resources
+## Article
 - https://dortania.github.io/OpenCore-Install-Guide/
 - https://dortania.github.io/GPU-Buyers-Guide/
+- https://dortania.github.io/OpenCore-Post-Install/universal/drm.html#fixing-drm
+
+
+## Resource
 - https://github.com/headkaze/Hackintool
 - https://mackie100projects.altervista.org/opencore-configurator/
+- https://github.com/corpnewt/ProperTree
 
 ## Contact
  - [Contact Us](https://t.me/naufaliosk)
@@ -62,7 +71,12 @@
 ## Support Me
  - [For Buy a coffee](https://saweria.co/Naufaal)
 
-
+## Special Thanks to
+- [God](https://id.wikipedia.org/wiki/Tuhan)
+- [Apple](https://www.apple.com) For MacOS
+- [Acidantera](https://github.com/acidanthera) The maker of OpenCore
+- [Dortania People](https://github.com/orgs/dortania/people) for the OpenCore Install Guide
+- [Admin and all member group H4CK1NTOSH L0V3R](https://t.me/HackintoshLover) the best group evvawhh
 
 ## Screenshot
 <img src="Pics/Home.png" width="1000"/>
