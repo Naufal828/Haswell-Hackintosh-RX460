@@ -40,16 +40,20 @@ Hackintosh For Haswell
 
  
 ## Resources
-- https://dortania.github.io/OpenCore-Desktop-Guide
+- https://dortania.github.io/OpenCore-Install-Guide/
+- https://dortania.github.io/GPU-Buyers-Guide/
 - https://github.com/headkaze/Hackintool
 - https://mackie100projects.altervista.org/opencore-configurator/
-
-## Screenshot
-![BIG](Pics.Home.png)
-
 
 ## Contact
  - [Contact Us](https://t.me/naufaliosk)
 
 ## Support Me
- - [For Buy a coffe](https://saweria.co/Naufaal)
+ - [For Buy a coffee](https://saweria.co/Naufaal)
+
+
+
+## Screenshot
+<img src="Pics/About This Mac.png" width="1000"/>
+
+
