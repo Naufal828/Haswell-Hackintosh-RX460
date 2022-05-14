@@ -5,7 +5,7 @@
 <img src="Pics/Monterey.png" width="150"/>
 
 # Hackintosh Haswell Dekstop
-##### Download EFI: [Releases](https://github.com/GebangKiidiw/EFI-Ryzentosh/releases)
+##### Download EFI: [Releases](https://github.com/Naufal828/EFI-HASWELL-DEKSTOP/releases/tag/Release)
 
 **IMPORTANT** Before you use this efi, configure smbios on config.plist 
 
