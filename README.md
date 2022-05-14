@@ -45,7 +45,7 @@
 
 ## Doesn't Work
 - Wifi
-- Bluetooh
+- Bluetooth
 - AirDrop
 - etc....
 
