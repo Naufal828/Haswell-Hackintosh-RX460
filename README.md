@@ -7,7 +7,12 @@
 # Hackintosh Haswell Dekstop
 ##### Download EFI: [Releases](https://github.com/GebangKiidiw/EFI-Ryzentosh/releases)
 
-Hackintosh For Haswell
+**IMPORTANT** Before you use this efi, configure smbios on config.plist 
+
+
+- [[GUIDE] ](https://dortania.github.io/OpenCore-Install-Guide/config.plist/haswell.html#platforminfo)
+- [[GENSMBIOS] ](https://github.com/corpnewt/GenSMBIOS)
+- [[Monterey Supported Smbios] ](https://dortania.github.io/OpenCore-Install-Guide/extras/monterey.html#supported-smbios)
 
 ## Hardware
 
