@@ -18,10 +18,30 @@ and make sure you have your bios settings. This EFI Tested on monterey 12.3.1 an
 - [[Monterey Supported Smbios] ](https://dortania.github.io/OpenCore-Install-Guide/extras/monterey.html#supported-smbios)
 
 ## Supported SMBIOS
-| Type                 |            Comment                  |
+| Type                 |            Comment                |
 |----------------------|-----------------------------------|
 | iMac17,1             | Haswell desktops with dGPU        |
 | iMac16,2             | Haswell desktops with only an iGPU|
+
+## Bios Settings
+| Settins              |            Comment                |
+|----------------------|-----------------------------------|
+| Fast Boot            | Disable                           |
+| Secure Boot          | Disable                           |
+| Serial/COM Port      | Disable                           |
+| Parallel Port        | Disable                           |
+| SVT-d                | Disable                           |
+| Thunderbolt          | Disable                           |
+| Intel SGX            | Disable                           |
+| Intel Platform Trust | Disable                           |
+| CFG Lock             | Disable                           |
+| VT-x                 | Enable                            |
+| Above 4G decoding    | Enable                            |
+| Hyper-Threading      | Enable                            |
+| Execute Disable Bit  | Enable                            |
+| OS type:             | Other UEFI Mode                   |
+| DVMT Pre-Allocated   | 64Mb                              |
+| SATA Mode            | AHCI.                             |
 
 
 ## Hardware
