@@ -94,6 +94,9 @@ and make sure you have your bios settings. This EFI Tested on monterey 12.3.1 an
 - https://mackie100projects.altervista.org/opencore-configurator/
 - https://github.com/corpnewt/ProperTree
 
+## Benchmark Result
+- https://browser.geekbench.com/v5/cpu/14980276
+
 ## Contact
  - [Contact Us](https://t.me/naufaliosk)
 
@@ -108,9 +111,10 @@ and make sure you have your bios settings. This EFI Tested on monterey 12.3.1 an
 - [Admin and all member group H4CK1NTOSH L0V3R](https://t.me/HackintoshLover) the best group evvawhh
 
 ## Screenshot
-<img src="Pics/Home.png" width="1000"/>
+
 <img src="Pics/About This Mac.png" width="1000"/>
-<img src="https://github.com/Naufal828/EFI-HASWELL-DEKSTOP/blob/main/Pics/Screen%20Shot%202022-05-18%20at%207.19.17%20PM.png)" width="1000"/>
+<img src="Pics/About.png" width="1000"/>
+<img src="Pics/Home.png" width="1000"/>
 <img src="Pics/Sensei.png" width="1000"/>
 <img src="Pics/black magic.png" width="1000"/>
 <img src="Pics/Hackintool USB.png" width="1000"/>
