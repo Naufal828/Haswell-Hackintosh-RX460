@@ -110,6 +110,7 @@ and make sure you have your bios settings. This EFI Tested on monterey 12.3.1 an
 ## Screenshot
 <img src="Pics/Home.png" width="1000"/>
 <img src="Pics/About This Mac.png" width="1000"/>
+<img src="https://github.com/Naufal828/EFI-HASWELL-DEKSTOP/blob/main/Pics/Screen%20Shot%202022-05-18%20at%207.19.17%20PM.png)" width="1000"/>
 <img src="Pics/Sensei.png" width="1000"/>
 <img src="Pics/black magic.png" width="1000"/>
 <img src="Pics/Hackintool USB.png" width="1000"/>
