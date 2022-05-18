@@ -1,4 +1,4 @@
-
+[![macOS version](https://img.shields.io/static/v1?label=MacOS-Monterey&message=12.4&color=blueviolet)](https://www.apple.com/id/macos/monterey-preview/) 
 [![macOS version](https://img.shields.io/static/v1?label=MacOS-Monterey&message=12.3.1&color=blueviolet)](https://www.apple.com/id/macos/monterey-preview/) 
 [![OpenCore version](https://img.shields.io/badge/OpenCore-0.8.0-informational.svg)](https://github.com/acidanthera/OpenCorePkg)
 
@@ -7,14 +7,22 @@
 # Hackintosh Haswell Dekstop
 ##### Download EFI: [Releases](https://github.com/Naufal828/EFI-HASWELL-DEKSTOP/releases/tag/Release)
 
-**IMPORTANT** Before you use this efi, configure smbios on config.plist
-and make sure you have your bios settings
+**IMPORTANT** 
+Before you use this efi, configure smbios on config.plist
+and make sure you have your bios settings. This EFI Tested on monterey 12.3.1 and 12.4 work perfectly
 
 
 - [[Platfrom Info] ](https://dortania.github.io/OpenCore-Install-Guide/config.plist/haswell.html#platforminfo)
 - [[Bios Settings]](https://dortania.github.io/OpenCore-Install-Guide/config.plist/haswell.html#intel-bios-settings)
 - [[GenSMBIOS] ](https://github.com/corpnewt/GenSMBIOS)
 - [[Monterey Supported Smbios] ](https://dortania.github.io/OpenCore-Install-Guide/extras/monterey.html#supported-smbios)
+
+## Supported SMBIOS
+| Type                 |            Comment                  |
+|----------------------|-----------------------------------|
+| iMac17,1             | Haswell desktops with dGPU        |
+| iMac16,2             | Haswell desktops with only an iGPU|
+
 
 ## Hardware
 
