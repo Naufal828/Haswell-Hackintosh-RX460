@@ -95,8 +95,8 @@ and make sure you have your bios settings. This EFI Tested on monterey 12.3.1 an
 - https://github.com/corpnewt/ProperTree
 
 ## Benchmark Result
-- https://browser.geekbench.com/v5/cpu/14980276
 - https://browser.geekbench.com/v4/cpu/16558279
+- https://browser.geekbench.com/v5/cpu/15095327
 
 ## Contact
  - [Contact Us](https://t.me/naufaliosk)
