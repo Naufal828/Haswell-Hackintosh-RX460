@@ -12,10 +12,12 @@ Before you use this efi, configure smbios on config.plist
 and make sure you have your bios settings. This EFI Tested on monterey 12.3.1 and 12.4 work perfectly
 
 
-- [[Platfrom Info] ](https://dortania.github.io/OpenCore-Install-Guide/config.plist/haswell.html#platforminfo)
-- [[Bios Settings]](https://dortania.github.io/OpenCore-Install-Guide/config.plist/haswell.html#intel-bios-settings)
-- [[GenSMBIOS] ](https://github.com/corpnewt/GenSMBIOS)
-- [[Monterey Supported Smbios] ](https://dortania.github.io/OpenCore-Install-Guide/extras/monterey.html#supported-smbios)
+- [Platfrom Info ](https://dortania.github.io/OpenCore-Install-Guide/config.plist/haswell.html#platforminfo)
+- [Bios Settings](https://dortania.github.io/OpenCore-Install-Guide/config.plist/haswell.html#intel-bios-settings)
+- [GenSMBIOS](https://github.com/corpnewt/GenSMBIOS)
+- [Monterey Supported Smbios](https://dortania.github.io/OpenCore-Install-Guide/extras/monterey.html#supported-smbios)
+- [Mac OS Installer](https://t.me/HackintoshLover/563870)
+
 
 ## Supported SMBIOS
 | Type                 |            Comment                |
