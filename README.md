@@ -52,7 +52,8 @@ and make sure you have your bios settings. This EFI Tested on monterey 12.3.1 an
 | Motherboard          | Asus B85M-G                       |
 | Audio                | Realtek® Audio Codec ALC887       |
 | IGPU                 | Intel® HD Graphics 4600           |
-| RAM                  | 8GB DDR3 1600Mhz                  |  
+| Display              | LG 20M35                          |
+| RAM                  | 8GB DDR3 1600Mhz                  |
 | Ethernet             | Realtek® 8111G Gigabit Lan        |
 | Wi-Fi Bluetooth      | none                              |
 | Storage              | Maxell SSD 120Gb Sata Interface   |
