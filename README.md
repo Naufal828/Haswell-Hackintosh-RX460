@@ -116,6 +116,8 @@ and make sure you have your bios settings. This EFI Tested on monterey 12.3.1 an
 <img src="Pics/About This Mac.png" width="1000"/>
 <img src="Pics/About.png" width="1000"/>
 <img src="Pics/Home.png" width="1000"/>
+<img src="Pics/cinebench r15.png" width="1000"/>
+<img src="Pics/cinebench r23.png" width="1000"/>
 <img src="Pics/Sensei.png" width="1000"/>
 <img src="Pics/black magic.png" width="1000"/>
 <img src="Pics/Hackintool USB.png" width="1000"/>
