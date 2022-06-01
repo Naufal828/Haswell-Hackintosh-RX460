@@ -50,12 +50,12 @@ and make sure you have your bios settings. This EFI Tested on monterey 12.3.1 an
 
 | Type                 | Name                              |
 |----------------------|-----------------------------------|
-| CPU                  | Intel® Core™ i7-4790              |
-| Motherboard          | Asus B85M-G                       |
+| CPU                  | [Intel® Core™ i7-4790](https://ark.intel.com/content/www/id/id/ark/products/80806/intel-core-i74790-processor-8m-cache-up-to-4-00-ghz.html)             |
+| Motherboard          | [Asus B85M-G](https://www.asus.com/Motherboards-Components/Motherboards/Business/B85MG/)                       |
 | Audio                | Realtek® Audio Codec ALC887       |
 | IGPU                 | Intel® HD Graphics 4600           |
-| DGPU                 | AMD Radeon RX 460 2GB native      |
-| Display              | LG 20M35                          |
+| DGPU                 | [AMD Radeon RX 460 2GB](https://www.gigabyte.com/Graphics-Card/GV-RX460WF2OC-2GD#kf)         |
+| Display              | [LG 20M35](https://www.lg.com/uk/monitors/lg-20M35A)                          |
 | RAM                  | 8GB DDR3 1600Mhz                  |
 | Ethernet             | Realtek® 8111G Gigabit Lan        |
 | Wi-Fi Bluetooth      | none                              |
