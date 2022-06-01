@@ -2,7 +2,7 @@
 [![macOS version](https://img.shields.io/static/v1?label=MacOS-Monterey&message=12.3.1&color=blueviolet)](https://www.apple.com/id/macos/monterey-preview/) 
 [![OpenCore version](https://img.shields.io/badge/OpenCore-0.8.0-informational.svg)](https://github.com/acidanthera/OpenCorePkg)
 
-<img src="Pics/Monterey.png" width="150"/>
+<img src="https://github.com/Naufal828/Haswell-Hackintosh-RX460/blob/main/pics/ProductPageIcon_1024x1024x32.png" width="150"/>
 
 # Hackintosh Haswell Dekstop
 ##### Download EFI: [Releases](https://github.com/Naufal828/EFI-HASWELL-DEKSTOP/releases/tag/Release)
@@ -121,14 +121,14 @@ and make sure you have your bios settings. This EFI Tested on monterey 12.3.1 an
 
 ## Screenshot
 
-<img src="Pics/About This Mac.png" width="1000"/>
-<img src="Pics/About.png" width="1000"/>
-<img src="Pics/Home.png" width="1000"/>
-<img src="Pics/cinebench r15.png" width="1000"/>
-<img src="Pics/cinebench r23.png" width="1000"/>
-<img src="Pics/Sensei.png" width="1000"/>
-<img src="Pics/black magic.png" width="1000"/>
-<img src="Pics/Hackintool USB.png" width="1000"/>
-<img src="Pics/Video Proc.png" width="1000"/>
+<img src="https://github.com/Naufal828/Haswell-Hackintosh-RX460/blob/main/pics/HOME.png" width="1000"/>
+<img src="https://github.com/Naufal828/Haswell-Hackintosh-RX460/blob/main/pics/ABOUT.png" width="1000"/>
+<img src="https://github.com/Naufal828/Haswell-Hackintosh-RX460/blob/main/pics/sensei.png" width="1000"/>
+<img src="https://github.com/Naufal828/Haswell-Hackintosh-RX460/blob/main/pics/VIDEOPROC.png" width="1000"/>
+<img src="https://github.com/Naufal828/Haswell-Hackintosh-RX460/blob/main/pics/Hackintool%20USB.png" width="1000"/>
+<img src="https://github.com/Naufal828/Haswell-Hackintosh-RX460/blob/main/pics/CB15.png" width="1000"/>
+<img src="https://github.com/Naufal828/Haswell-Hackintosh-RX460/blob/main/pics/cinebench%20r23.png" width="1000"/>
+<img src="https://github.com/Naufal828/Haswell-Hackintosh-RX460/blob/main/pics/BLACKMAGIC%208K.png" width="1000"/>
+
 
 
