@@ -54,6 +54,7 @@ and make sure you have your bios settings. This EFI Tested on monterey 12.3.1 an
 | Motherboard          | Asus B85M-G                       |
 | Audio                | Realtek® Audio Codec ALC887       |
 | IGPU                 | Intel® HD Graphics 4600           |
+| DGPU                 | AMD Radeon RX 460 2GB native      |
 | Display              | LG 20M35                          |
 | RAM                  | 8GB DDR3 1600Mhz                  |
 | Ethernet             | Realtek® 8111G Gigabit Lan        |
@@ -69,10 +70,10 @@ and make sure you have your bios settings. This EFI Tested on monterey 12.3.1 an
 
 ## Functional
 
--  QE/CI of Intel® HD Graphics 4600
+-  QE/CI of AMD Radeon RX460 2GB
 -  Restart, Sleep and Shutdown
 -  CPU Power Management
--  iMessage / FaceTime / iCloud
+-  iMessage / FaceTime / iCloud / AppleTV /
 -  Ethernet
 -  HDMI Out
 -  All Port USB
@@ -82,8 +83,10 @@ and make sure you have your bios settings. This EFI Tested on monterey 12.3.1 an
 - Wifi
 - Bluetooth
 - AirDrop
-- Appletv or cannot stream netflix, disney+, primevideo. because that need drm gpu compatible *required gpu Polaris+
 - etc....
+
+## Untested
+- Steaming Netflix with safari, because I don't have a premium account 😆
 
  
 ## Article
