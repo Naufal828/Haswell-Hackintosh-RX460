@@ -5,7 +5,7 @@
 <img src="https://github.com/Naufal828/Haswell-Hackintosh-RX460/blob/main/pics/ProductPageIcon_1024x1024x32.png" width="150"/>
 
 # Hackintosh Haswell Dekstop
-##### Download EFI: [Releases](https://github.com/Naufal828/Haswell-Hackintosh-RX460/releases/tag/Release)
+##### Download EFI: [Releases](https://github.com/Naufal828/Haswell-Hackintosh-RX460/releases)
 
 **IMPORTANT** 
 Before you use this efi, configure smbios on config.plist
