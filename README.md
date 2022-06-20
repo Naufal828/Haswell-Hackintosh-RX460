@@ -9,7 +9,7 @@
 
 **IMPORTANT** 
 Before you use this efi, configure smbios on config.plist
-and make sure you have your bios settings. This EFI Tested on monterey 12.3.1 and 12.4 work perfectly
+and make sure you have your bios settings. This EFI Tested on monterey 12.3.1 and 12.4 work perfectly. **for those of you who use an amd gpu, to stream netflix via safari use smbios without an igpu, like imacpro 1.1 or macpro 7.1
 
 
 - [Platfrom Info ](https://dortania.github.io/OpenCore-Install-Guide/config.plist/haswell.html#platforminfo)
