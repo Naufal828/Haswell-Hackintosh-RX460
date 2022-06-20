@@ -78,6 +78,7 @@ and make sure you have your bios settings. This EFI Tested on monterey 12.3.1 an
 -  HDMI Out
 -  All Port USB
 -  VDA Decoder Fully Support 
+-  stream netflix / prime video / disney+.  via safari *using imac pro 1,1 smbios
 
 ## Doesn't Work
 - Wifi
@@ -86,7 +87,7 @@ and make sure you have your bios settings. This EFI Tested on monterey 12.3.1 an
 - etc....
 
 ## Untested
-- Steaming Netflix with safari, because I don't have a premium account 😆
+- none
 
  
 ## Article
