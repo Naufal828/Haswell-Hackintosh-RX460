@@ -1,6 +1,10 @@
-[![macOS version](https://img.shields.io/static/v1?label=MacOS-Monterey&message=12.4&color=blueviolet)](https://www.apple.com/id/macos/monterey-preview/) 
 [![macOS version](https://img.shields.io/static/v1?label=MacOS-Monterey&message=12.3.1&color=blueviolet)](https://www.apple.com/id/macos/monterey-preview/) 
+[![macOS version](https://img.shields.io/static/v1?label=MacOS-Monterey&message=12.4&color=blueviolet)](https://www.apple.com/id/macos/monterey-preview/) 
+[![macOS version](https://img.shields.io/static/v1?label=MacOS-Ventura&message=13.0&color=orange)](https://www.apple.com/id/macos/monterey-preview/)
 [![OpenCore version](https://img.shields.io/badge/OpenCore-0.8.0-informational.svg)](https://github.com/acidanthera/OpenCorePkg)
+[![OpenCore version](https://img.shields.io/badge/OpenCore-0.8.1-informational.svg)](https://github.com/acidanthera/OpenCorePkg)
+[![OpenCore version](https://img.shields.io/badge/OpenCore-0.8.2-informational.svg)](https://github.com/acidanthera/OpenCorePkg)
+[![OpenCore version](https://img.shields.io/badge/OpenCore-0.8.3-informational.svg)](https://github.com/acidanthera/OpenCorePkg)
 
 <img src="https://github.com/Naufal828/Haswell-Hackintosh-RX460/blob/main/pics/ProductPageIcon_1024x1024x32.png" width="150"/>
 
