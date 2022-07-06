@@ -127,7 +127,8 @@ and make sure you have your bios settings. This EFI Tested on monterey 12.3.1 an
 <img src="https://github.com/Naufal828/Haswell-Hackintosh-RX460/blob/main/pics/ABOUT.png" width="1000"/>
 <img src="https://github.com/Naufal828/Haswell-Hackintosh-RX460/blob/main/pics/sensei.png" width="1000"/>
 <img src="https://github.com/Naufal828/Haswell-Hackintosh-RX460/blob/main/pics/VIDEOPROC.png" width="1000"/>
-<img src="https://github.com/Naufal828/Haswell-Hackintosh-RX460/blob/main/pics/Hackintool%20USB.png" width="1000"/>
+<img src="https://github.com/Naufal828/Haswell-Hackintosh-RX460/blob/main/pics/PTXtmYcmLKlX88QM_480.jpg" width="500"/>
+<img src="https://github.com/Naufal828/Haswell-Hackintosh-RX460/blob/main/pics/Screenshot 2022-07-06 at 1.02.20 PM.png" width="1000"/>
 <img src="https://github.com/Naufal828/Haswell-Hackintosh-RX460/blob/main/pics/CB15.png" width="1000"/>
 <img src="https://github.com/Naufal828/Haswell-Hackintosh-RX460/blob/main/pics/cinebench%20r23.png" width="1000"/>
 <img src="https://github.com/Naufal828/Haswell-Hackintosh-RX460/blob/main/pics/BLACKMAGIC%208K.png" width="1000"/>
