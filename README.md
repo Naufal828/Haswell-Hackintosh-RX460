@@ -123,6 +123,7 @@ and make sure you have your bios settings. This EFI Tested on monterey 12.3.1 an
 ## Screenshot
 
 <img src="https://github.com/Naufal828/Haswell-Hackintosh-RX460/blob/main/pics/HOME.png" width="1000"/>
+<img src="https://github.com/Naufal828/Haswell-Hackintosh-RX460/blob/main/pics/Screenshot 2022-07-06 at 1.04.59 PM.png" width="500"/>
 <img src="https://github.com/Naufal828/Haswell-Hackintosh-RX460/blob/main/pics/ABOUT.png" width="1000"/>
 <img src="https://github.com/Naufal828/Haswell-Hackintosh-RX460/blob/main/pics/sensei.png" width="1000"/>
 <img src="https://github.com/Naufal828/Haswell-Hackintosh-RX460/blob/main/pics/VIDEOPROC.png" width="1000"/>
