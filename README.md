@@ -109,6 +109,7 @@ and make sure you have your bios settings. This EFI Tested on monterey 12.3.1 an
 ## Benchmark Result
 - [GeekBench 4 CPU Score](https://browser.geekbench.com/v4/cpu/16562352)
 - [GeekBench 5 CPU Score](https://browser.geekbench.com/v5/cpu/15233933)
+- [GeekBench 6 CPU Score](https://browser.geekbench.com/v6/cpu/1854724)
 - [Metal Score](https://browser.geekbench.com/v5/compute/4910778)
 - [OpenCL Score](https://browser.geekbench.com/v5/compute/4910786)
 
