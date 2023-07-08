@@ -101,6 +101,7 @@ and make sure you have your bios settings. This EFI Tested on monterey 12.3.1 an
 
 
 ## Resource
+- https://github.com/acidanthera/OpenCorePkg
 - https://github.com/headkaze/Hackintool
 - https://mackie100projects.altervista.org/opencore-configurator/
 - https://github.com/corpnewt/ProperTree
