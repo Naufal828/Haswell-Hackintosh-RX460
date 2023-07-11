@@ -16,7 +16,7 @@
 and make sure you have your bios settings.
 - This EFI Tested on monterey 12.3.1, 12.4, 12.6.7 work perfectly.
 - and for those of you who use an amd gpu, to stream netflix via safari use smbios without an igpu, like imacpro 1.1 or macpro 7.1
-- for asus b85m-g motherboard users who want front panel headphones to [work use alcid 11] ( )_ 
+- for asus b85m-g motherboard users who want front panel headphones to [work use alcid 11](https://github.com/Naufal828/Haswell-Hackintosh-RX460/blob/main/pics/headphones.png) 
 
 # Read For Setting your smbios
 - [Platfrom Info ](https://dortania.github.io/OpenCore-Install-Guide/config.plist/haswell.html#platforminfo)
