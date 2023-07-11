@@ -13,10 +13,10 @@
 
 **IMPORTANT NOTES** 
 1.Before you use this efi, configure smbios on config.plist
-and make sure you have your bios settings.
-2.This EFI Tested on monterey 12.3.1 and 12.4 work perfectly. 
-3.and for those of you who use an amd gpu, to stream netflix via safari use smbios without an igpu, like imacpro 1.1 or macpro 7.1
-5. for asus b85m-g motherboard users who want front panel headphones to work use alcid 11
+and make sure you have your bios settings.;
+2.This EFI Tested on monterey 12.3.1 and 12.4 work perfectly. ;
+3.and for those of you who use an amd gpu, to stream netflix via safari use smbios without an igpu, like imacpro 1.1 or macpro 7.1;
+5. for asus b85m-g motherboard users who want front panel headphones to work use alcid 11;
 
 
 - [Platfrom Info ](https://dortania.github.io/OpenCore-Install-Guide/config.plist/haswell.html#platforminfo)
