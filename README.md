@@ -62,7 +62,7 @@ and make sure you have your bios settings.
 | Audio                | Realtek® Audio Codec ALC887       |
 | IGPU                 | Intel® HD Graphics 4600           |
 | DGPU                 | [AMD Radeon RX 460 2GB](https://www.gigabyte.com/Graphics-Card/GV-RX460WF2OC-2GD#kf)         |
-| Display              | [LG 20M35](https://www.lg.com/uk/monitors/lg-20M35A)                          |
+| Display              | [Koorui 27N1](https://koorui.net/products/27n1-koorui-27-inch-fhd-monitor-computer-monitor-ips-panel-1080p-75hz-hdmi-vga-99-srgb-5ms-response-eye-care-virtually-borderless-design-display-monitor)                          |
 | RAM                  | 8GB DDR3 1600Mhz                  |
 | Ethernet             | Realtek® 8111G Gigabit Lan        |
 | Wi-Fi Bluetooth      | none                              |
