@@ -65,7 +65,7 @@ and make sure you have your bios settings.
 | Display              | [Koorui 27N1](https://koorui.net/products/27n1-koorui-27-inch-fhd-monitor-computer-monitor-ips-panel-1080p-75hz-hdmi-vga-99-srgb-5ms-response-eye-care-virtually-borderless-design-display-monitor)                          |
 | RAM                  | 8GB DDR3 1600Mhz                  |
 | Ethernet             | Realtek® 8111G Gigabit Lan        |
-| Wi-Fi Bluetooth      | none                              |
+| Wi-Fi Bluetooth      | Intel AC 7265                              |
 | Storage              | Maxell SSD 120Gb Sata Interface   |
 | Hardisk              | Seagate 500Gb , Samsung 320Gb     |
 ## Patches & Kexts
@@ -74,6 +74,8 @@ and make sure you have your bios settings.
  - [[Kext] WhateverGreen](https://github.com/acidanthera/WhateverGreen)
  - [[Kext] AppleALC](https://github.com/acidanthera/AppleALC/)
  - [[Kext] RealtekRTL8111](https://github.com/Mieze/RTL8111_driver_for_OS_X/releases)
+ - [[Kext] Itlwm](https://github.com/OpenIntelWireless/itlwm/releases)
+ - [[Kext] IntelBluetoothFirmware](https://github.com/OpenIntelWireless/IntelBluetoothFirmware)
 
 ## Functional
 
@@ -86,21 +88,22 @@ and make sure you have your bios settings.
 -  All Port USB
 -  VDA Decoder Fully Support 
 -  stream netflix / prime video / disney+.  via safari *using imac pro 1,1 smbios
+-  Wifi
+-  Bluetooth
 
 ## Doesn't Work
-- Wifi
-- Bluetooth
-- AirDrop
 - etc....
 
 ## Untested
-- none
+- AirDrop not tested on Intel AC 7265 
 
  
 ## Article
 - https://dortania.github.io/OpenCore-Install-Guide/
 - https://dortania.github.io/GPU-Buyers-Guide/
 - https://dortania.github.io/OpenCore-Post-Install/universal/drm.html#fixing-drm
+- https://openintelwireless.github.io/itlwm/Installation.html
+- https://openintelwireless.github.io/IntelBluetoothFirmware/Installation.html
 
 
 ## Resource
@@ -108,6 +111,7 @@ and make sure you have your bios settings.
 - https://github.com/headkaze/Hackintool
 - https://mackie100projects.altervista.org/opencore-configurator/
 - https://github.com/corpnewt/ProperTree
+- https://github.com/0xCUB3/About-This-Hack
 
 ## Benchmark Result
 - [GeekBench 4 CPU Score](https://browser.geekbench.com/v4/cpu/16562352)
@@ -130,8 +134,6 @@ and make sure you have your bios settings.
 - [Admin and all member group H4CK1NTOSH L0V3R](https://t.me/HackintoshLover) the best group evvawhh
 
 ## Screenshot
-Screen Shot 2023-07-21 at 2.11.55 PM.png
-
 <img src="https://github.com/Naufal828/Haswell-Hackintosh-RX460/blob/main/pics/Screenshot 2024-01-09 at 6.02.47 PM.png" width="500"/>
 <img src="https://github.com/Naufal828/Haswell-Hackintosh-RX460/blob/main/pics/Screen Shot 2023-07-21 at 2.11.55 PM.png" width="1000"/>
 <img src="https://github.com/Naufal828/Haswell-Hackintosh-RX460/blob/main/pics/HOME.png" width="1000"/>
