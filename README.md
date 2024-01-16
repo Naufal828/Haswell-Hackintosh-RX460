@@ -3,7 +3,7 @@
 ![OpenCore version](https://img.shields.io/badge/OpenCore-0.9.7-informational.svg)
 
 
-<img src="https://github.com/Naufal828/Haswell-Hackintosh-RX460/blob/main/pics/ProductPageIcon_1024x1024x32.png" width="150"/>
+<img src="https://i0.wp.com/spider-mac.com/wp-content/uploads/2022/07/macos-ventura-logo.png?ssl=1" width="250"/>
 
 # Hackintosh Haswell Dekstop
 ##### Download EFI: [Releases](https://github.com/Naufal828/Haswell-Hackintosh-RX460/releases)
