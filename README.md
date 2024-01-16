@@ -132,6 +132,7 @@ and make sure you have your bios settings.
 
 ## Screenshot
 <img src="https://github.com/Naufal828/Haswell-Hackintosh-RX460/blob/main/pics/Screenshot 2024-01-09 at 6.02.47 PM.png" width="500"/>
+<img src="https://github.com/Naufal828/Haswell-Hackintosh-RX460/blob/main/pics/headphones.png" width="500"/>
 <img src="https://github.com/Naufal828/Haswell-Hackintosh-RX460/blob/main/pics/Screen Shot 2023-07-21 at 2.11.55 PM.png" width="1000"/>
 <img src="https://github.com/Naufal828/Haswell-Hackintosh-RX460/blob/main/pics/HOME.png" width="1000"/>
 <img src="https://github.com/Naufal828/Haswell-Hackintosh-RX460/blob/main/pics/Screenshot 2022-07-06 at 1.04.59 PM.png" width="500"/>
