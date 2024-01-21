@@ -60,9 +60,9 @@ and make sure you have your bios settings.
 | IGPU                 | Intel® HD Graphics 4600           |
 | DGPU                 | [AMD Radeon RX 460 2GB](https://www.gigabyte.com/Graphics-Card/GV-RX460WF2OC-2GD#kf)         |
 | Display              | [Koorui 27N1](https://koorui.net/products/27n1-koorui-27-inch-fhd-monitor-computer-monitor-ips-panel-1080p-75hz-hdmi-vga-99-srgb-5ms-response-eye-care-virtually-borderless-design-display-monitor)                          |
-| RAM                  | 8GB DDR3 1600Mhz                  |
+| RAM                  | 16GB DDR3 1600Mhz                  |
 | Ethernet             | Realtek® 8111G Gigabit Lan        |
-| Wi-Fi Bluetooth      | Intel AC 7265                              |
+| Wi-Fi Bluetooth      | [Intel AC 7265](https://www.tokopedia.com/zonabarang/intel-ac7265-ngw-high-speed-wifi-card-pcie-1x-dual-band-bluetooth)                            |
 | Storage              | Maxell SSD 120Gb Sata Interface   |
 | Hardisk              | Seagate 500Gb , Samsung 320Gb     |
 ## Patches & Kexts
