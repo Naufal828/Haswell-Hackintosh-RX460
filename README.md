@@ -120,12 +120,11 @@ and make sure you have your bios settings.
 
 
 ## Benchmark GPU Result
+| SINGLE CHANNEL 8GB            |           DUAL CHANNEL 16GB               |
+|----------------------|-----------------------------------|
+| [GeekBench METAL Score](https://browser.geekbench.com/v5/compute/4910778 )           | [GeekBench METAL Score](https://browser.geekbench.com/v5/compute/6709524 )                          |
+| [GeekBench OPENCL Score](https://browser.geekbench.com/v5/compute/4910786)        | [GeekBench OPENCL Score(https://browser.geekbench.com/v5/compute/6709525 )                          |
 
-- 
-- 
-- 
-- [Metal Score](https://browser.geekbench.com/v5/compute/4910778)
-- [OpenCL Score](https://browser.geekbench.com/v5/compute/4910786)
 
 ## Contact
  - [Contact Us](https://t.me/naufaliosk)
