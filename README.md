@@ -147,6 +147,8 @@ and make sure you have your bios settings.
 <img src="https://github.com/Naufal828/Haswell-Hackintosh-RX460/blob/main/pics/Screen%20Shot%202024-01-17%20at%205.20.03%20AM.png" width="500"/>
 <img src="https://github.com/Naufal828/Haswell-Hackintosh-RX460/blob/main/pics/Screen%20Shot%202024-01-17%20at%205.20.07%20AM.png" width="500"/>
 <img src="https://github.com/Naufal828/Haswell-Hackintosh-RX460/blob/main/pics/Screenshot%202024-01-21%20at%205.11.08%20PM.png" width="1000"/>
+<img src="https://github.com/Naufal828/Haswell-Hackintosh-RX460/blob/main/pics/Screenshot%202024-01-27%20at%2010.23.03%20AM.png" width="1000"/>
+<img src="https://github.com/Naufal828/Haswell-Hackintosh-RX460/blob/main/pics/Screenshot%202024-01-27%20at%2010.23.13%20AM.png" width="1000"/>
 <img src="https://github.com/Naufal828/Haswell-Hackintosh-RX460/blob/main/pics/HOME.png" width="1000"/>
 <img src="https://github.com/Naufal828/Haswell-Hackintosh-RX460/blob/main/pics/Screen Shot 2023-07-21 at 2.11.55 PM.png" width="1000"/>
 <img src="https://github.com/Naufal828/Haswell-Hackintosh-RX460/blob/main/pics/Screenshot 2022-07-06 at 1.04.59 PM.png" width="500"/>
