@@ -59,14 +59,14 @@ and make sure you have your bios settings.
 | CPU                  | [Intel® Core™ i7-4790](https://ark.intel.com/content/www/id/id/ark/products/80806/intel-core-i74790-processor-8m-cache-up-to-4-00-ghz.html)             |
 | Motherboard          | [Asus B85M-G](https://www.asus.com/Motherboards-Components/Motherboards/Business/B85MG/)                       |
 | Audio                | Realtek® Audio Codec ALC887       |
-| IGPU                 | Intel® HD Graphics 4600           |
+| IGPU                 | [Intel® HD Graphics 4600](https://www.techpowerup.com/gpu-specs/hd-graphics-4600.c1994)           |
 | DGPU                 | [AMD Radeon RX 460 2GB](https://www.gigabyte.com/Graphics-Card/GV-RX460WF2OC-2GD#kf)         |
 | Display              | [DELL SE2719H](https://www.amazon.com/Dell-backlit-Monitor-SE2719H-1080p/dp/B07KW6HFD1)                          |
 | RAM                  | 16GB DDR3 1600Mhz                  |
 | Ethernet             | Realtek® 8111G Gigabit Lan        |
 | Wi-Fi Bluetooth      | [Intel AC 7265](https://www.tokopedia.com/zonabarang/intel-ac7265-ngw-high-speed-wifi-card-pcie-1x-dual-band-bluetooth)                            |
-| Storage              | Maxell SSD 120Gb Sata Interface   |
-| Hardisk              | Seagate 500Gb , Samsung 320Gb     |
+| Storage              | [Adata SU650 1TB](https://www.tokopedia.com/atkiosk/adata-ultimate-su650-1tb-ssd-sata-2-5-garansi-3-tahun?extParam=ivf%3Dfalse&src=topads)   |
+
 ## Patches & Kexts
  - [[Kext] VirtualSMC](https://github.com/acidanthera/VirtualSMC)
  - [[Kext] Lilu](https://github.com/acidanthera/Lilu)
