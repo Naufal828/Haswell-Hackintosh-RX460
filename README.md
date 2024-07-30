@@ -91,7 +91,8 @@ and make sure you have your bios settings.
 -  Bluetooth
 
 ## Doesn't Work
-- etc....
+- airdrop
+- screen mirroring from iphone
 
 ## Untested
 - AirDrop not tested on Intel AC 7265 
