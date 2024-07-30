@@ -57,8 +57,8 @@ and make sure you have your bios settings.
 | Type                 | Name                              |
 |----------------------|-----------------------------------|
 | CPU                  | [Intel® Core™ i7-4790](https://ark.intel.com/content/www/id/id/ark/products/80806/intel-core-i74790-processor-8m-cache-up-to-4-00-ghz.html)             |
-| Motherboard          | [Asus B85M-G](https://www.asus.com/Motherboards-Components/Motherboards/Business/B85MG/)                       |
-| Audio                | Realtek® Audio Codec ALC887       |
+| Motherboard          | [Asus B85M-G](https://www.asus.com/supportonly/b85m-g/helpdesk_cpu/)                       |
+| Audio                | Realtek® Audio Codec ALC887(https://semiconductors.es/datasheet/ALC887.html)       |
 | IGPU                 | [Intel® HD Graphics 4600](https://www.techpowerup.com/gpu-specs/hd-graphics-4600.c1994)           |
 | DGPU                 | [AMD Radeon RX 460 2GB](https://www.gigabyte.com/Graphics-Card/GV-RX460WF2OC-2GD#kf)         |
 | Display              | [DELL SE2719H](https://www.amazon.com/Dell-backlit-Monitor-SE2719H-1080p/dp/B07KW6HFD1)                          |
