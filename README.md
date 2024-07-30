@@ -106,7 +106,7 @@ and make sure you have your bios settings.
 - https://openintelwireless.github.io/IntelBluetoothFirmware/Installation.html
 
 
-## Resource
+## resources
 - https://github.com/acidanthera/OpenCorePkg
 - https://github.com/headkaze/Hackintool
 - https://mackie100projects.altervista.org/opencore-configurator/
