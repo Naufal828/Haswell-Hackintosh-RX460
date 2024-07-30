@@ -1,9 +1,9 @@
-![macOS version](https://img.shields.io/static/v1?label=MacOS-Monterey&message=12.7.2&color=blueviolet)
-![macOS version](https://img.shields.io/static/v1?label=MacOS-Ventura&message=13.6.3&color=orange)
-![OpenCore version](https://img.shields.io/badge/OpenCore-0.9.7-informational.svg)
+![macOS version](https://img.shields.io/static/v1?label=MacOS-Sonoma&message=14.0&color=green)
+![OpenCore version](https://img.shields.io/badge/OpenCore-0.9.9-informational.svg)
 
 
-<img src="https://i0.wp.com/spider-mac.com/wp-content/uploads/2022/07/macos-ventura-logo.png?ssl=1" width="250"/>
+<img src="https://cdn.jim-nielsen.com/macos/512/macos-sonoma-2023-09-26.png?rf=1024" width="150"/>
+
 
 # Hackintosh Haswell Dekstop
 ##### Download EFI: [Releases](https://github.com/Naufal828/Haswell-Hackintosh-RX460/releases)
